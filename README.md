@@ -1,5 +1,5 @@
 # Movie Recommendation System
-Author: Ranvir Malik \n
+Author: Ranvir Malik <br/>
 Date: 5/2/2023
 
 This project uses Random Forest, Gradient Boosting, and KNN classifiers from the Scikit-Learn Python
